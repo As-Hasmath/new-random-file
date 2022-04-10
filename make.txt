@@ -1,2 +1,3 @@
 normal text file .
 more line added
+third line add.
